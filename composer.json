@@ -1,5 +1,5 @@
 {
-    "name": "hyperf-ext/encryption",
+    "name": "zhuchunshu/hyperf-encryption",
     "type": "library",
     "license": "MIT",
     "keywords": [
